@@ -3,14 +3,15 @@ Bootstrap 4 alpha Wordpress Theme to kick start your project
 
 ##What is included?
 - Theme Files
-- Bootstrap 4 Alpha
+- Comes with Bootstrap 4 Alpha Pre-packaged
 - Bootstrap 4 Alpha SCSS Files
-- Font Awesome
+- Font Awesome Library for icons
 
 
-##### Usage
+###### Usage
 - Use this to kickstart your Wordpress theme with the new version of Bootstrap 4 Alpha
 
-Sources and Credit: http://v4-alpha.getbootstrap.com/
+###### Sources and Credit: 
+Credit: http://v4-alpha.getbootstrap.com/
 
-Inquiries: http://BryanBarrera.com
+Author: http://BryanBarrera.com
